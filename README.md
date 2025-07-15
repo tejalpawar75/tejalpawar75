@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm [Your Name]  <br>Full-Stack Developer | AI-Driven Web Enthusiast<br><br>🌐 Built real-world MERN stack apps with AI integration  <br>🧠 Exploring AI/ML to build smarter web experiences  <br>💬 Let's connect and collaborate on meaningful tech<br><br>📫 Reach me at: yourname@gmail.com  <br>
+Hi 👋, I'm Tejal Pawar  <br>Full-Stack Developer | AI-Driven Web Enthusiast<br><br>🌐 Built real-world MERN stack apps with AI integration  <br>🧠 Exploring AI/ML to build smarter web experiences  <br>💬 Let's connect and collaborate on meaningful tech<br><br>📫 Reach me at: tejalpawar2005@gmail.com  <br>
 
 
 ## 🌐 Socials:
